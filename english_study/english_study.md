@@ -1,5 +1,5 @@
 He picked up the scattered toys.
-scaggered grid view
+staggered grid view
 The three men ate with relish.
 xx helped xx over the rail.
 The family decided to assist me with my chores.
@@ -124,14 +124,14 @@ I'm still no closer to deciphering the code.
 =====================================================================
 I'll reserve a table for five.
 I'd be glad to lend a hand.
-In object-oriented programing,a subclass is derived from a superclass.
+In object-oriented programming,a subclass is derived from a superclass.
 derived data
 The juice is too sweet;I think I'll dilute it with some water.
 You can exchange your currency at the airport.
 Over the years,he managed to accumulate a significant amount of wealth.
 The interceptor allows us to log all outgoing requests and incoming responses.
 injector 注射、注射器
-Clamp Function:In programing,a clamp function ensure a value stays within a given range.
+Clamp Function:In programming,a clamp function ensure a value stays within a given range.
 Climb 爬山
 There are only five cookies remaining in the jar.
 The workers were idle during the lunch break.
@@ -143,9 +143,22 @@ disposable 一次性的
 =====================================================================
 transition  transportation
 scheme  schema
-scattered   scaggered
+scattered   staggered
 clamp climb
 opaque transparent
+=====================================================================
+I recommend the book to all my students.
+web crawler
+Your doctor will monitor your blood pressure.
+After Labor Day we start classes.
+We can't afford to wait.
+Can we afford a new car?
+Her letters conflate past and present.
+She chose the present with loving care.
+The president is a good man.
+This was utterly(完全的) beyond her comprehension.
+Why should he notice her car in particular?
+=====================================================================
 =====================================================================
 The run of the golden bull
 
@@ -161,7 +174,7 @@ The candles green came fast and tall
 Each wick was bold,quick to stun
 His eyes burned red,and his horns did maul
 When the Bull began his run
-Now Fortune smiles upon the neet
+Now Fortune smiles upon the neat
 His bags of gold gleam in the sun
 Doubters dream of his balance sheet
 And every bear is left with none
