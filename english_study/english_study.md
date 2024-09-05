@@ -86,7 +86,7 @@ Let's go to the theater to watch a play tonight.
 =====================================================================
 High liquidity means that assets can be easily bought or sold without significantly impacting（冲击力，巨大影响） their prices.
 Customers can subscribe to our membership program for discounts and rewards.
-It was a scene of such domestic(家庭的) bliss.
+It was a scene of such domestic(家庭的) bliss. bliss point(幸福点、满足点)
 We reject any suggestion that the law needs amending(修改、修订).
 Truncate the number to three decimal places before performing the calculation.
 His siblings are in their twenties.
@@ -104,7 +104,7 @@ Ozone is a highly reactive form of oxygen gas.
 The purpose of the book is to provide a complete guide to the university.
 =====================================================================
 He only received a fraction of the profits.
-The extent of the damage was severe(严重). 
+The extent（范围、程度、长度） of the damage was severe(严重). 
 minScrollExtent
 If you're running pod install manually, make sure flutter pub get is executed first.
 He wrote the first draft of his novel last month.
@@ -136,6 +136,7 @@ Climb 爬山
 There are only five cookies remaining in the jar.
 The workers were idle during the lunch break.
 The shock absorber(减震器) in the car helps to smooth out（使平滑） the ride.
+His skin is clear and smooth.
 The accident left him with a permanent scar on his arm.
 =====================================================================
 From her expression,I inferred that she was angry.
@@ -153,12 +154,19 @@ Your doctor will monitor your blood pressure.
 After Labor Day we start classes.
 We can't afford to wait.
 Can we afford a new car?
-Her letters conflate past and present.
+Her letters conflate（合并） past and present.
 She chose the present with loving care.
 The president is a good man.
 This was utterly(完全的) beyond her comprehension.
 Why should he notice her car in particular?
 =====================================================================
+In the first week,the city police evicted 10 families.
+obtain
+Each film gets a snappy two-line summary.
+The area was covered in dense jungle（丛林）.
+oval
+sticker 表情包，贴纸
+Children learn faster than adults.
 =====================================================================
 The run of the golden bull
 
