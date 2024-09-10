@@ -161,7 +161,7 @@ This was utterly(完全的) beyond her comprehension.
 Why should he notice her car in particular?
 =====================================================================
 In the first week,the city police evicted 10 families.
-obtain
+obtain /əbˈteɪn/
 Each film gets a snappy two-line summary.
 The area was covered in dense jungle（丛林）.
 oval
