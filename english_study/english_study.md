@@ -72,7 +72,7 @@ The old building collapsed after the earthquake.
 TextSelection.collapsed()
 
 =====================================================================
-Winning a Nober Prize is considered one of the most prestigious achievements in the world.
+Winning a Nobel Prize is considered one of the most prestigious achievements in the world.
 Her occupation is a teacher.
 She had a vivid dream about flying over the mountains.
 The book provides an elementary introduction to computer programming.
@@ -140,7 +140,7 @@ His skin is clear and smooth.
 The accident left him with a permanent scar on his arm.
 =====================================================================
 From her expression,I inferred that she was angry.
-disposable 一次性的
+disposable chopsticks 一次性筷子
 =====================================================================
 transition  transportation
 scheme  schema
@@ -167,6 +167,10 @@ The area was covered in dense jungle（丛林）.
 oval
 sticker 表情包，贴纸
 Children learn faster than adults.
+=====================================================================
+periodic /ˌpɪriˈɑːdɪk/
+He stopped at the threshold of the bedroom.
+Overall,there were more losers than gainers.
 =====================================================================
 The run of the golden bull
 
