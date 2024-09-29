@@ -171,6 +171,9 @@ Children learn faster than adults.
 periodic /ˌpɪriˈɑːdɪk/
 He stopped at the threshold of the bedroom.
 Overall,there were more losers than gainers.
+The instructions were very specific. 
+Each patient has specific needs. 
+His virtue is patience.
 =====================================================================
 The run of the golden bull
 

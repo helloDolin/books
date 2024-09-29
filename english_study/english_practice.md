@@ -26,12 +26,12 @@ He throttled the engine to reduce speed.
 I'm not acquainted with the details of the project.
 The local team won the championship at their home stadium.
 There are two distinct flavors in this dish.
-I have a busy schedule this week with meetings and apponintments.
+I have a busy schedule this week with meetings and appointments.
 The government has proposed a new scheme to improve public transportation.
 Our company focuses on providing upstream services in the supply chain.
 The contract contains explicit terms regarding payment and delivery.
 There was a significant increase in sales after the product launch.
-The government issued a warning and broadcast it accross all media channels.
+The government issued a warning and broadcast it across all media channels.
 The certificates were issued to all employees.
 The team discussed the important issues during the meeting.
 We celebrated her birthday with a party on occasion of her turing 30.
@@ -41,19 +41,19 @@ The sense of community is lost.
 Her distinctive voice made her stand out in the crowd.
 We celebrated our wedding anniversary with a romantic dinner.
 Listening old songs always often fills me with nostalgia for my high school days.
-I anticipate that the meeting will last 2 hours.
+I anticipate that the meeting will last for about 2 hours.
 What is the purpose of your visit to our company today?
-The company's database was corrupted,resulting in fragments of data scatterd throughout the system.
+The company's database was corrupted,resulting in fragments of data scattered throughout the system.
 Her savings were in the First National Bank.
 She attends religious services at the church every Sunday.
 We usually have three meals a day:breakfast,lunch,and dinner.
 The meaning of the ancient text is obscure and difficult to decipher.
-The project is curentlly in planning phase.
+The project is currently in planning phase.
 She has a typical American accent.
 I inherited my love of music from my mother.
 The stadium has a seating capacity of 50,000 spectators.
 The old building collapsed after the earthquake.
-Winning a Nober Prize is considered one of the most prestigious achievements in the world.
+Winning a Nobel Prize is considered one of the most prestigious achievements in the world.
 Her occupation is a teacher.
 She had a vivid dream about flying over the mountains.
 The book provides an elementary introduction to computer programming.
@@ -65,7 +65,7 @@ High liquidity means that assets can be easily bought or sold without significan
 Customers can subscribe to our membership program for discount and rewards.
 It was a scene of such domestic bliss.
 We reject any suggestion that the law needs amending.
-Truncate the number to three decimel places before performing the calculation.
+Truncate the number to three decimal places before performing the calculation.
 His siblings are in their twenties. 
 He stood there breathing deeply and evenly.
 Figure 4.1 shows the respiratory system.
@@ -73,10 +73,10 @@ I adopted a positive outlook on life.
 The files are organized in a hierarchical directory structure.
 Her lover walked out on her after she had aborted their child.
 See how stupidly they kow-tow to persons higher in the hierarchy.
-Coach Lucas reassemble his team in Septemper.
+Coach Lucas reassemble his team in September.
 He took a long slow breath,inhaling deeply.
 Ozone is a highly reactive form of oxygen gas.
-The purpose of the book is to provide a complete guide to the universicy.
+The purpose of the book is to provide a complete guide to the university.
 He only received a fraction of the profits.
 The extent of the damage was severe.
 If you're running pod install manually,make sure flutter pub get is executed first.
@@ -92,13 +92,32 @@ They may use credit card for convenience.
 I'm still no closer to deciphering the code.
 I'll reserve a table for five.
 I'd be glad to lend a hand.
-In object-oriented programing,a subclass is derived from a superclass. 
+In object-oriented programming,a subclass is derived from a superclass. 
 The juice is too sweet;I think I'll dilute it with some water.
 You can exchange your currency at the airport.
 Over the years,he managed to accumulate a significant amount of wealth.
 The interceptor allows us to log all outgoing requests and incoming responses.
-In programing,a clamp function ensure a value stays within a given range.
+In programming,a clamp function ensure a value stays within a given range.
 There are only 5 cookies remaining in the jar.
 The workers are idle during the lunch break.
 The shock absorber in the car helps to smooth out the ride.
 The accident left him with a permanent scar on his arm.
+From her expression,I inferred that she was angry.
+I recommend the book to all my students.
+Your doctor will monitor your blood pressure.
+After Labor Day we start class.
+We can't afford to wait.
+Can we afford a new car?
+Her letters conflate past and present.
+She chose the present with loving care.
+The president is a good man.
+This was utterly beyond her comprehension.
+Why should he notice her car in particular?
+In the first week,the city police evicted 10 families.
+Each film gets a snappy 2-line summary.
+The area was covered in dense jungle.
+He stopped at the threshold of the bedroom.
+Overall,there were more losers than gainers.
+The instructions were very specific.
+Each patient has specific needs.
+His virtue is patience.
