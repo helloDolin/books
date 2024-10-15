@@ -175,6 +175,15 @@ The instructions were very specific.
 Each patient has specific needs. 
 His virtue is patience.
 =====================================================================
+the butterfly effect
+effective pixels, effective management
+Two of the knife thrusts(猛刺) were fatal.
+His integrity(诚实、正直) was unchallenged.
+All that the tourists see are the external of our faith.   external storage
+internal
+He heard the alarm go off.
+redeem a wish 
+=====================================================================
 The run of the golden bull
 
 Their spirits were sunken and low
