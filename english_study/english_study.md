@@ -142,7 +142,7 @@ The accident left him with a permanent scar on his arm.
 From her expression,I inferred that she was angry.
 disposable chopsticks 一次性筷子
 =====================================================================
-transition  transportation
+transition  transportation transaction
 scheme  schema
 scattered   staggered
 clamp climb
@@ -183,6 +183,13 @@ All that the tourists see are the external of our faith.   external storage
 internal
 He heard the alarm go off.
 redeem a wish 
+=====================================================================
+The campaign needs an effective coordinator.
+comma
+Windows are usually sealed off.
+The same alarm(恐慌，闹钟) is manifest(显示 v、清单 n) everywhere. 
+He dashed off a couple of novels.
+
 =====================================================================
 The run of the golden bull
 
