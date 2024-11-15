@@ -184,11 +184,11 @@ internal
 He heard the alarm go off.
 redeem a wish 
 =====================================================================
-The campaign needs an effective coordinator.
+The campaign（运动、战役） needs an effective coordinator.
 comma
 Windows are usually sealed off.
 The same alarm(恐慌，闹钟) is manifest(显示 v、清单 n) everywhere. 
-He dashed off a couple of novels.
+He dashed off（匆忙、草率完成） a couple of novels.
 
 =====================================================================
 The run of the golden bull
